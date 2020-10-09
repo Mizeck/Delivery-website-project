@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(226, 215, 215);
+}
+.welcome{
+   
+    width: 99%;
+    height: 90%;
+    
+
+
+}
+a{
+    text-decoration: none;
+    padding: 0.001%;
+    color: black;
+}
+a:hover{
+    color: rgb(204, 116, 116);
+    
+}
+.top{
+    float: right;
+    margin: auto;
+}
+.botomfooter h3{
+    text-align: center;
+    width: 100%;
+    height: 5%;
+}
+.button{
+    width: 15%;
+    background-color: black;
+    color: white;
+}
